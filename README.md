@@ -6,9 +6,9 @@
   <img alt="Fedokol's GitHub profile" src="dark_mode.jpg" width="400" /> 
 </picture>
 
-# 👋 Привет, я Fedokol!
+#  Салам я Fedokol
 
-### 🚀 14-летний Java-разработчик
+### мне 14 делаю проекты на Java и изучаю его язык
 
 [![Age](https://img.shields.io/badge/Age-14-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Fedokol](https://img.shields.io/badge/Fedokol-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
@@ -20,21 +20,21 @@
 
 ---
 
-## 📬 Связаться со мной
+##  Газ знакомится
 
 <div align="center">
 
-### 👤 Личный Telegram-канал
+###  Тгк
 [![Telegram](https://img.shields.io/badge/Logovo_Sticha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LogovoSticha4)
 
-### 🚀 Проект LT Lite
+###  Проект LimeTime
 [![Telegram](https://img.shields.io/badge/LT__Lite-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lt_lite)
 
 </div>
 
 ---
 
-## 🛠️ Мой стек
+##  ну крч типо хз
 
 <div align="center">
 
@@ -47,21 +47,21 @@
 
 ---
 
-## 🎯 Обо мне
+##  Обо мне
 
-- 🎂 Мне **14 лет**
-- ☕ Пишу на **Java**
-- 🐘 Использую **Gradle** для сборки проектов
-- 🚀 Работаю над проектом **[LT Lite](https://t.me/lt_lite)**
-- 📢 Веду канал **[Logovo Sticha](https://t.me/LogovoSticha4)**
+-  Мне **14 лет**
+-  Пишу на **Java и паралельно её изучаю**
+-  Использую **Gradle** для сборки проектов
+-  Работаю над проектом **[LT Lite](https://t.me/lt_lite)**
+-  Веду канал **[Logovo Sticha](https://t.me/LogovoSticha4)**
 
 ---
 
 <div align="center">
 
-### ⭐ Спасибо, что заглянул!
+### ну все давай удачи
 
-**Подпишись на мои каналы — буду рад!** 💙
+**Мой тгк и проект где работаю
 
 [![Telegram](https://img.shields.io/badge/Logovo_Sticha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LogovoSticha4)
 [![Telegram](https://img.shields.io/badge/LT__Lite-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lt_lite)
