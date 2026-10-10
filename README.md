@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dark_mode.svg" />
-  <img alt="Fedokol's GitHub profile" src="dark_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.jpg" />
+  <source media="(prefers-color-scheme: light)" srcset="dark_mode.jpg" />
+  <img alt="Fedokol's GitHub profile" src="dark_mode.jpg" />
 </picture>
 
 # 👋 Привет, я Fedokol!
